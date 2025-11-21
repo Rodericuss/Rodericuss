@@ -77,15 +77,13 @@ My Hyprland configuration files. A carefully crafted Wayland compositor setup fo
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodericuss)
+https://rodrigomarquesbarbosa.fly.dev/
   
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rodericuss&color=brightgreen&style=flat-square)
   
   ⭐ From [Rodericuss](https://github.com/Rodericuss)
   
