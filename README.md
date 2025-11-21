@@ -2,32 +2,38 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Linux+Enthusiast;Open+Source+Contributor)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B275F&center=true&vCenter=true&width=435&lines=Elixir+Developer;Phoenix+LiveView+Enthusiast;Linux+%2B+AWS+Engineer;Building+Fault-Tolerant+Systems)
   
 </div>
 
 ## 🚀 About Me
 
-I'm a developer passionate about building efficient web applications and customizing my development environment. Currently diving deep into modern web technologies while maintaining a highly personalized Arch Linux + Hyprland setup.
+I'm a developer passionate about building scalable, real-time web applications and customizing my development environment. Currently diving deep into **Elixir** and the **Phoenix/LiveView** ecosystem, exploring functional programming and the BEAM VM.
 
 - 🔧 Daily driver: **Arch Linux** with **Hyprland** (Wayland)
 - ⌨️ Editor: **Neovim** (because life's too short for slow editors)
-- 🌱 Currently exploring TypeScript, React, and full-stack development
-- 💡 I believe in clean code, minimal dependencies, and understanding how things work under the hood
+- 🌱 Currently mastering **Elixir**, **Phoenix LiveView**, and cloud infrastructure with **AWS**
+- 💡 I believe in fault-tolerant systems, clean code, and understanding how things work under the hood
+- 🎯 Fascinated by concurrency, distributed systems, and the actor model
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Frameworks
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Environment
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -40,6 +46,22 @@ I'm a developer passionate about building efficient web applications and customi
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodericuss&theme=tokyonight&hide_border=true)
 
 </div>
+
+## 🎯 Currently Learning
+
+```elixir
+defmodule Rodericuss.LearningPath do
+  @current_focus [
+    "Phoenix LiveView - Real-time, server-rendered interfaces",
+    "OTP & GenServers - Building fault-tolerant systems",
+    "Ecto - Database patterns and query optimization", 
+    "AWS deployment - ECS, Lambda, and infrastructure as code",
+    "Distributed Elixir - Clustering and communication patterns"
+  ]
+  
+  def next_milestone, do: "Building production-grade Phoenix apps"
+end
+```
 
 ## 🔥 Featured Projects
 
