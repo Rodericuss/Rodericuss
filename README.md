@@ -39,11 +39,7 @@ I'm a developer passionate about building scalable, real-time web applications a
 
 <div align="center">
   
-  ![Rodericuss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodericuss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodericuss&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodericuss&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -63,27 +59,19 @@ defmodule Rodericuss.LearningPath do
 end
 ```
 
-## 🔥 Featured Projects
-
-### [Blog-Template](https://github.com/Rodericuss/Blog-Template)
-A simple yet effective blog template built with JavaScript. Perfect starting point for content creators who want a clean, customizable blogging platform.
-
-**Tech:** JavaScript, HTML, CSS
+## 🔥 dot_files
 
 ### [nvim_dotfiles](https://github.com/Rodericuss/nvim_dotfiles)
 My personal Neovim configuration, forked from kickstart.nvim. Continuously evolving to match my workflow and preferences.
 
 **Tech:** Lua, Neovim
 
-### [ecommerce](https://github.com/Rodericuss/ecommerce)
-Full-stack ecommerce application built with modern TypeScript. Exploring best practices in scalable web application architecture.
-
-**Tech:** TypeScript, React
-
 ### [hypr_dotfiles](https://github.com/Rodericuss/hypr_dotfiles)
 My Hyprland configuration files. A carefully crafted Wayland compositor setup for a smooth, efficient workflow on Arch Linux.
 
 **Tech:** Shell, Hyprland, Wayland
+
+**You can find my Wofi, kitty and waybar dotfiles in my repositories aswell.**
 
 ## 📫 Get in Touch
 
