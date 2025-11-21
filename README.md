@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about building scalable, real-time web applications and customizing my development environment. Currently diving deep into **Elixir** and the **Phoenix/LiveView** ecosystem, exploring functional programming and the BEAM VM.
+I'm a developer trying to build scalable, real-time web applications and customizing my development environment. Currently diving deep into **Elixir** and the **Phoenix/LiveView** ecosystem, exploring functional programming and the BEAM VM.
 
 - 🔧 Daily driver: **Arch Linux** with **Hyprland** (Wayland)
 - ⌨️ Editor: **Neovim** (because life's too short for slow editors)
